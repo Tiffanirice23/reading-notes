@@ -1,6 +1,6 @@
 <sub> *A  Code Fellows reading journal* </sub>
 
-# My name is Tiffani, and I am very excited to get started on a new career!
+# :left_speech_bubble:	My name is Tiffani & I am very excited to start a new career! :white_heart:	
 
 Growth Mindset to me details the process of setting reasonable expectations when researching and studying a new craft. Before moving forward with something fresh, it is important to be cognizant that my skills can and **WILL** be improved through hard work. My failures are not a representation of my future potential!
 
