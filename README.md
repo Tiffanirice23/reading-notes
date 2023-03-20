@@ -7,8 +7,8 @@ Growth Mindset to me details the process of setting reasonable expectations when
 ## 3 reminders to stay in a growth mindset
 
 1. Embrace criticisms by understanding that expertise is not gained overnight. Making mistakes and being confused is inevitable when learning something new!
-2. My enemies can do it; why not me? I can do all things through spite which strengthens me. :raised_hands:	
-3. The economy is tough :pinched_fingers:, but I AM TOUGHER 
+2. The instant gratification monkey is real, and I will avoid it by staying focused on the confusing task at hand!
+3. I can do all things through spite which strengthens me. My enemies can do it; why not me? :raised_hands:	
 
 ### **Link to my _[Github portfolio](https://github.com/tiffanirice23)_** 
 
