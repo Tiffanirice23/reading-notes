@@ -12,6 +12,6 @@ Growth Mindset to me **details the process of setting reasonable expectations wh
 - [ ]  The instant gratification monkey is tricky, and I will avoid it by staying focused on the confusing task at hand without allowing distractions!
 - [ ]  I can do all things through spite which strengthens me. My enemies can do it; why not me? 	
 
-### **Link to my _[Github portfolio](https://github.com/tiffanirice23)_** 
+ **Please check out my _[Github portfolio](https://github.com/tiffanirice23)_** 
 
 <sub> reading-notes </sub>
