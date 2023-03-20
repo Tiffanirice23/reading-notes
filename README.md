@@ -8,9 +8,11 @@ Growth Mindset to me is <mark> the process of setting reasonable expectations wh
 
 ## 3 reminders to stay in a growth mindset
 
-- [ ]  Embrace criticisms by understanding that expertise is not gained overnight. Making mistakes and being confused is inevitable when learning something new!
-- [ ]  The instant gratification monkey is tricky, and I will avoid it by staying focused on the confusing task at hand without allowing distractions!
-- [ ]  I can do all things through spite which strengthens me. My enemies can do it; why not me? 	
+ [x] Embrace criticisms by understanding that expertise is not gained overnight. Making mistakes and being confused is inevitable when learning something new!
+ 
+ [x] The instant gratification monkey is tricky, and I will avoid it by staying focused on the confusing task at hand without allowing distractions!
+ 
+ [x] I can do all things through spite which strengthens me. My enemies can do it; why not me? 	
 
  **Please check out my _[Github portfolio](https://github.com/tiffanirice23)_** 
 
