@@ -14,6 +14,9 @@ Growth Mindset to me is <mark> the process of setting reasonable expectations wh
  
  - I can do all things through spite which strengthens me. My enemies can do it; why not me? 	
 
- **Please check out my _[Github portfolio](https://github.com/tiffanirice23)_** 
+ ### Contact Info
+ **My _[Email](Tiffanirice414@gmail.com)/_**
+ **My _[LinkedIn](https://www.linkedin.com/in/tiffani-rice-600658168/)/_**
+ **My _[Github portfolio](https://github.com/tiffanirice23)_** 
 
 <sub> reading-notes </sub>
