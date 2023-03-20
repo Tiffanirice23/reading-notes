@@ -1,6 +1,6 @@
 <sub> *A  Code Fellows reading journal* </sub>
 
-# `:left_speech_bubble:` My name is Tiffani & I am very excited to start a new career!
+# `:speech_balloon:` My name is Tiffani & I am very excited to start a new career!
 
 I am a 27 year old from Pensacola, Florida currently living in Seattle, Washington. Previously, I had been managing commercial aviation warehouses for large OEM manufacturers and left once I noticed how many options there are for upward mobility within the tech industry. The PNW offers a substantially large selection of developer jobs to choose from, which I am looking foward to!
 
