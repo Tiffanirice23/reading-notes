@@ -1,5 +1,3 @@
-<sub> reading-notes </sub>
-
 <sub> *A  Code Fellows reading journal* </sub>
 
 # My name is Tiffani, and I am very excited to get started on a new career!
@@ -14,4 +12,4 @@ Growth Mindset to me details the process of setting reasonable expectations when
 
 ### **Link to my _[Github portfolio](https://github.com/tiffanirice23)_** 
 
-
+<sub> reading-notes </sub>
