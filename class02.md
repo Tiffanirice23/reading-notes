@@ -26,5 +26,5 @@ See below explanation for how these commands and arguments are entered into the 
 - `cd projects`: You moving into the projects folder
 - `mkdir new-project`: You are creating a "New Project" folder
 - `touch new-project/newfile.md`: You are creating a "New Project" File
-- `cd .. `: You are moving backwards 2x
+- `cd .. `: You are moving backwards 
 - `ls projects/new-project`: You are listing folders within the new-project folder
