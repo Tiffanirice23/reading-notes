@@ -12,7 +12,7 @@ Growth Mindset to me is <mark> the process of setting reasonable expectations wh
  
 - The instant gratification of using the technology at my fingertips as a distraction from a challenge is tempting. While taking a break is vital for our bodies, it can be a slippery slope into long term avoidance. Healthier screen habits are essential to continually growing in my desired direction. 
  
- - Remembering that everyone posses different skillsets. Seeing others florish while I'm slowly learning is not a reflection of my shortcomings! If anything, it showcases how a team should collaberate and delegate based on one another's strenghts& weaknesses
+ - Remembering that everyone possesses different skillsets. Seeing others florish while I'm slower to grasp the concept is not a reflection of my shortcomings! If anything, it showcases how a team can collaberate and delegate based on one another's strenghts& weaknesses
 
  ### Contact Info
  
