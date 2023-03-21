@@ -13,9 +13,10 @@ What is it called when you give an element extra information?
 
 What is a semantic element?
 > Semantics refers to the effect of a piece of code on JS, CSS, and HTML.
-> Example: `<article>`
-> Example: `<mark>`
-> Example: `<nav>`
+
+> Examples: `<article>`
+> `<mark>`
+> `<nav>`
 
 ### Class References
 
