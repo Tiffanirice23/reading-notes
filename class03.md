@@ -20,5 +20,5 @@ What is the command to take a snapshot of your changed files?
 
 What is the command to send your changed files to Github?
 
-> *$ git push origin master* <br>
-*This command pushes changes from the local “master” branch to the remote repository named “origin”.*
+> *$ git push origin main* <br>
+*This command pushes changes from the local "main"" branch to the remote repository named “origin”.*
