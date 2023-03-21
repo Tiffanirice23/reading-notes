@@ -2,7 +2,7 @@
 
 #	My name is Tiffani, and I'm ready to start learning code! 
 
-I am a 27 year old professional from Pensacola, Florida currently living in the Seattle, Washington area. I had previously been managing commercial aviation warehouses for local OEM manufacturers and left once I noticed how many options there are for upward mobility within the tech industry. The beautiful Pacific Northwest offers a substantial selection of developer jobs, and I would be remiss to let this opportunity pass. 
+I am a 27 year old professional from Pensacola, Florida currently living in the Seattle, Washington area. I had previously been managing commercial aviation warehouses for local OEM manufacturers and left once I noticed how many options there are for upward mobility within the tech industry. The Pacific Northwest offers a substantial selection of developer jobs, and I would be remiss to let the opportunity pass. 
 
 Growth Mindset can be summarized as <mark> the process of setting a reasonable mindset when pursuing a new hobby or occupation</mark>. Before moving forward with something fresh, it is important to be cognizant that my skills can and *WILL* be improved through dedication. My failures are not a representation of my future potential!
 
