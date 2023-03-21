@@ -16,7 +16,7 @@ Growth Mindset to me is <mark> the process of setting reasonable expectations wh
 
 ### Contact Info
  
- **My Email: _Tiffanirice414@gmail.com_**
+ **My Email: _[Tiffanirice414@gmail.com](Tiffanirice414@gmail.com)_**
  
  **My _[LinkedIn](https://www.linkedin.com/in/tiffani-rice-600658168/)_**
  
