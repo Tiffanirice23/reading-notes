@@ -14,7 +14,7 @@ What is the command to track and stage files?
 
 What is the command to take a snapshot of your changed files?
  
-> *There is no command. Everytime you save a changed version of your project, Git creates a snapshot of the file and stores a reference to it*
+> *Git commit -m "filename"*
 
 
 
