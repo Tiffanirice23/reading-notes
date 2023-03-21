@@ -14,7 +14,7 @@ What is the command to track and stage files?
 
 What is the command to take a snapshot of your changed files?
  
-> *Git commit -m "filename"*
+> *Git commit -m "summary of change"*
 
 
 
