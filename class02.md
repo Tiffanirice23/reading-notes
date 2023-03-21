@@ -12,7 +12,7 @@ Definition: Created by John Gruber in 2004, Markdown is simply a lightweight lan
 ### - Terms and definitions
 1. `pwd`  
 > Print Working Directory - ie. Where are we currently.
-2. ` ls`  
+2. `ls`  
 > List the contents of a directory
 3. `cd` 
 > Change Directories - ie. Move to another directory.
