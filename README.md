@@ -14,7 +14,7 @@ Growth Mindset to me is <mark> the process of setting reasonable expectations wh
  
  - Remembering that everyone possesses different skillsets. Seeing others florish while I'm slower to grasp the concept is not a reflection of my shortcomings! If anything, it showcases how a team can collaberate and delegate based on one another's strenghts& weaknesses
 
- ## Contact Info
+### Contact Info
  
  **My Email: _Tiffanirice414@gmail.com_**
  
