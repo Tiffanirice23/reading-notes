@@ -23,8 +23,8 @@ Definition: Created by John Gruber in 2004, Markdown is simply a lightweight lan
 
 See below explanation for how these commands and arguments are entered into the command line? 
 
-- `cd projects`: - You moving into the projects folder
-- `mkdir new-project`: - You are creating a "New Project" folder
-- `touch new-project/newfile.md`: - You are creating a "New Project" File
-- `cd .. `: - You are moving backward 2x
-- `ls projects/new-project`: You are listing folders within the new-project folder.
+- `cd projects`: You moving into the projects folder
+- `mkdir new-project`: You are creating a "New Project" folder
+- `touch new-project/newfile.md`: You are creating a "New Project" File
+- `cd .. `: You are moving backwards 2x
+- `ls projects/new-project`: You are listing folders within the new-project folder
