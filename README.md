@@ -6,7 +6,7 @@ I am a 27 year old professional from Pensacola, Florida currently living in the 
 
 ## Table Of Contents
 
-
+*Code 102 Reading Notes*
 1. Class01: [Learning Markdown](https://tiffanirice23.github.io/reading-notes/class01)
 2. Class02: [The Coder's Computer](https://tiffanirice23.github.io/reading-notes/class02)
 3. Class03: [Revisions and the Cloud](https://tiffanirice23.github.io/reading-notes/class03)
@@ -15,6 +15,23 @@ I am a 27 year old professional from Pensacola, Florida currently living in the 
 6. Class06: [Dynamic web pages with JavaScript](#)
 7. Class07: [Programming with JavaScript](#)
 8. Class08: [Operators and Loops](#)
+
+*Code 201 Reading Notes*
+1. Class01: [TBD](#)
+2. Class02: [TBD](#)
+3. Class03: [TBD](#)
+4. Class04: [TBD](#)
+5. Class05: [TBD](#)
+6. Class06: [TBD](#)
+7. Class07: [TBD](#)
+8. Class08: [TBD](#)
+9. Class09: [TBD](#)
+10. Class10: [TBD](#)
+11. Class11: [TBD](#)
+12. Class12: [TBD](#)
+13. Class13: [TBD](#)
+14. Class14: [TBD](#)
+15. Class15: [TBD](#)
 
 **Click [here](https://tiffanirice23.github.io/reading-notes/growthmindset) to see ways to stay in a growth mindset!**
 
