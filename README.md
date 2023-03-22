@@ -12,10 +12,10 @@ Please see below notes references for CodeFellows 102 and 201 coding courses.
 2. Class02: [The Coder's Computer](https://tiffanirice23.github.io/reading-notes/class02)
 3. Class03: [Revisions and the Cloud](https://tiffanirice23.github.io/reading-notes/class03)
 4. Class04: [Structure web pages with HTML](https://tiffanirice23.github.io/reading-notes/class04)
-5. Class05: [Design web pages with CSS](#)
-6. Class06: [Dynamic web pages with JavaScript](#)
-7. Class07: [Programming with JavaScript](#)
-8. Class08: [Operators and Loops](#)
+5. Class05: [Design web pages with CSS](https://tiffanirice23.github.io/reading-notes/class05)
+6. Class06: [Dynamic web pages with JavaScript](https://tiffanirice23.github.io/reading-notes/class06)
+7. Class07: [Programming with JavaScript](https://tiffanirice23.github.io/reading-notes/class07)
+8. Class08: [Operators and Loops](https://tiffanirice23.github.io/reading-notes/class08)
 
 *Code 201 Reading Notes*
 1. Class01: [TBD](https://tiffanirice23.github.io/code-201/class01)
