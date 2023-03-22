@@ -24,4 +24,6 @@
 - [CSS Reference](https://developer.mozilla.org/en-US/docs/Web/CSS/Reference)
 - [Myers Web Reset Stylesheet](https://meyerweb.com/eric/tools/css/reset/)
 
-
+*Resources*
+- [CSS Almanac](https://css-tricks.com/almanac/properties/)
+- [Color Selector](https://coolors.co/)
