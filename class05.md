@@ -1,7 +1,7 @@
 # Class 5: CSS
 
 ### What is the purpose of CSS?
-> CSS is the language for describing the presentation of Web pages, including colors, layout, and fonts.
+> CSS, *or Cascading Style Sheets*, is the language for describing the presentation of Web pages, including colors, layout, and fonts.
 
 ### What are the three ways to insert CSS into your project?
 > 1. Externally - `Example: <link rel="stylesheet" href="nameoffile.css">`
