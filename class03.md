@@ -1,4 +1,4 @@
-# Revisions and the Cloud Notes
+#  Class 3: Git/Github
 
 **Version Control can be defined as a system that records and lists changes for various
 versions of a set of files.**

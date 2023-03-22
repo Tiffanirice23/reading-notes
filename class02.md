@@ -1,7 +1,7 @@
-# Markdown Discussion
+# *The Coder's Computer Notes*
 Definition: Created by John Gruber in 2004, Markdown is simply a lightweight language used to add formatting to plaintext text documents. You can add syntax to the text to indicate which words and phrases will look different, unlike a WYSIWYG editor.
 
-*The Coder's Computer Notes*
+
 
 ### - What are four important features to look for in a text editor?
 1. Code completion

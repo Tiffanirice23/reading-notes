@@ -1,4 +1,4 @@
-# Markdown Notes for Class01
+#  Class 1: Growth Mindset & GitHub Pages
 
 Markdown was created by John Gruber in 2004 as a lightweight language used to add formatting to plaintext text documents. 
 You can add syntax to the text to indicate which words and phrases will look different, unlike a WYSIWYG editor.

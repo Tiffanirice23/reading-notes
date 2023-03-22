@@ -4,15 +4,19 @@
 
 I am a 27 year old professional from Pensacola, Florida currently living in the Seattle, Washington area. I had previously been managing commercial aviation warehouses for local OEM manufacturers and left once I noticed how many options there are for upward mobility within the tech industry. The Pacific Northwest offers a substantial selection of developer jobs, and I would be remiss to let the opportunity pass. 
 
-Growth Mindset can be summarized as <mark> the process of setting a reasonable mindset when pursuing a new hobby or occupation</mark>. Before moving forward with something fresh, it is important to be cognizant that my skills can and *WILL* be improved through dedication. My failures are not a representation of my future potential!
+## Table Of Contents
 
-## 3 reminders to stay in a growth mindset
 
-- Embrace criticisms by understanding that proficiency is gained through hard work, time, and dedicated practice. Making mistakes and being confused is inevitable when learning something new!
- 
-- The instant gratification of using the technology at my fingertips as a distraction from a challenge is tempting. While taking a break is vital for our bodies, it can be a slippery slope into long term avoidance. Healthier screen habits are essential to continually growing in my desired direction. 
- 
- - Remembering that everyone possesses different skillsets. Seeing others florish while I'm slower to grasp the concept is not a reflection of my shortcomings! If anything, it showcases how a team can collaberate and delegate based on one another's strenghts& weaknesses
+1. Class01: [Learning Markdown](https://tiffanirice23.github.io/reading-notes/class01)
+2. Class02: [The Coder's Computer](https://tiffanirice23.github.io/reading-notes/class02)
+3. Class03: [Revisions and the Cloud](https://tiffanirice23.github.io/reading-notes/class03)
+4. Class04: [Structure web pages with HTML](https://tiffanirice23.github.io/reading-notes/class04)
+5. Class05: [Design web pages with CSS](#)
+6. Class06: [Dynamic web pages with JavaScript](#)
+7. Class07: [Programming with JavaScript](#)
+8. Class08: [Operators and Loops](#)
+
+**Click [here](https://tiffanirice23.github.io/reading-notes/growthmindset) to see ways to stay in a growth mindset!**
 
 ### Contact Info
  
@@ -21,5 +25,7 @@ Growth Mindset can be summarized as <mark> the process of setting a reasonable m
  **My _[LinkedIn](https://www.linkedin.com/in/tiffani-rice-600658168/)_**
  
  **My _[Github portfolio](https://github.com/tiffanirice23)_** 
+
+ 
 
 <sub> reading-notes </sub>
