@@ -8,7 +8,7 @@ Please see below notes references for CodeFellows 102 and 201 coding courses.
 ## Table Of Contents
 
 *Code 102 Reading Notes*
-1. Class01: [Learning Markdown](./code-102/class01.md)
+1. Class01: [Learning Markdown](./code-102/class01)
 2. Class02: [The Coder's Computer](./code-102/class02.md)
 3. Class03: [Revisions and the Cloud](./code-102/class03.md)
 4. Class04: [Structure web pages with HTML](./code-102/class04.md)
