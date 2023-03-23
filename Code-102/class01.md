@@ -6,33 +6,42 @@ You can add syntax to the text to indicate which words and phrases will look dif
 We use Markdown not only because it's supported by websites and most desktop/ web-based applications, it is also platform independent. 
 Markdown can be created on any device on any operating system for the forseeable future.
 
-### Markdown Q&A
-What symbol will create a heading in Markdown?
+#  Markdown Q&A
+
+### What symbol will create a heading in Markdown?
 
 `#`
 
-How many do you need to create the largest heading?
+### How many do you need to create the largest heading?
 
 `Only One!`
 
-How many do you need to create the smallest heading?
+### How many do you need to create the smallest heading?
 
 `Six!`
 
-When making text bold or italicized for emphasis, it is best practice to use which symbol?
+### When making text bold or italicized for emphasis, it is best practice to use which symbol?
 
 `It is best practive to use the asterisk (*)`
 
-How do you create a link with Markdown?
+### How do you create a link with Markdown?
 
 `To create a link, surround the link text in brackets and follow it with a URL in parentheses.`
 
 > Example: `[Google is a great reference!](https://google.com)`
 
-What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
+### What are the three symbols you can use to create an unordered (bulleted) list with Markdown?
 1. `A dash (-)`
 2. `a plus (+)` 
 3. `an asterisk (*)`
 
 *Resources*
 - [Whiteboard](https://www.invisionapp.com/)
+
+*Read and Bookmarked*
+- [Getting Started](https://www.markdownguide.org/getting-started/)
+- [Markdown Basic Syntax](https://www.markdownguide.org/basic-syntax/)
+- [Mastering Markdown on GitHub](https://guides.github.com/features/mastering-markdown/)
+
+*Watched*
+- [Github Pages](https://pages.github.com/)

@@ -28,3 +28,9 @@ See below explanation for how these commands and arguments are entered into the 
 - `touch new-project/newfile.md`: You are creating a "New Project" File
 - `cd .. `: You are moving backwards 
 - `ls projects/new-project`: You are listing folders within the new-project folder
+
+*Read*
+- [Choosing a Text Editor](https://codefellows.github.io/code-102-guide/curriculum/class-02/Choosing-A-Text-Editor--The-Older-Coder.pdf)
+- [The Command Line](https://ryanstutorials.net/linuxtutorial/commandline.php)
+- [Basic Navigation](https://ryanstutorials.net/linuxtutorial/navigation.php)
+- [About Files](https://ryanstutorials.net/linuxtutorial/aboutfiles.php)
