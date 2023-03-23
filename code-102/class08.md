@@ -1,4 +1,4 @@
-|# Class 8 || Operators and Loops
+# Class 8: Operators and Loops
 
 ### What is an expression in JavaScript?
 > At a high level, an expression is a valid unit of code that resolves to a value. There are two types of expressions: those that have side effects (such as assigning values) and those that purely evaluate.
