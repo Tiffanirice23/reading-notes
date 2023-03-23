@@ -14,11 +14,8 @@
 ### What are the parenthesis () for when you define a function?
 > Function parameters are listed inside the parentheses () in the function definition.
 
-*Read*
-- [MDN Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
-- [ChatGPT](https://openai.com/blog/chatgpt)
-
 *Read and Demo*
+- [MDN Control Flow](https://developer.mozilla.org/en-US/docs/Glossary/Control_flow)
 - [Functions](https://www.w3schools.com/js/js_functions.asp)
 - [Operations](https://www.w3schools.com/js/js_operators.asp)
 
@@ -28,3 +25,4 @@
 
 *Resource Found*
 - [JavaScript Reference](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference#control_flow)
+- [ChatGPT](https://openai.com/blog/chatgpt)
