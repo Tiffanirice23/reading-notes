@@ -17,8 +17,10 @@ console.log("Walking east one step");
 
 
 ### When does a for loop stop executing?
+> If it evaluates to true , the statement or code in the loop is executed. If it evaluates to false , the loop stops.
 
 ### How many times will a while loop execute?
+> The while loop starts by evaluating condition . If condition evaluates to true , the code in the code block gets executed. If condition evaluates to false , the code in the code block is not executed and the loop ends
 
 *Read*
 - [Expressions and Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
