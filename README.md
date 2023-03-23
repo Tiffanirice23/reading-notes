@@ -8,34 +8,34 @@ Please see below notes references for CodeFellows 102 and 201 coding courses.
 ## Table Of Contents
 
 *Code 102 Reading Notes*
-1. Class01: [Learning Markdown](https://tiffanirice23.github.io/reading-notes/class01)
-2. Class02: [The Coder's Computer](https://tiffanirice23.github.io/reading-notes/class02)
-3. Class03: [Revisions and the Cloud](https://tiffanirice23.github.io/reading-notes/class03)
-4. Class04: [Structure web pages with HTML](https://tiffanirice23.github.io/reading-notes/class04)
-5. Class05: [Design web pages with CSS](https://tiffanirice23.github.io/reading-notes/class05)
-6. Class06: [Dynamic web pages with JavaScript](https://tiffanirice23.github.io/reading-notes/class06)
-7. Class07: [Programming with JavaScript](https://tiffanirice23.github.io/reading-notes/class07)
-8. Class08: [Operators and Loops](https://tiffanirice23.github.io/reading-notes/class08)
+1. Class01: [Learning Markdown](./code-102/class01.md)
+2. Class02: [The Coder's Computer](./code-102/class02.md)
+3. Class03: [Revisions and the Cloud](./code-102/class03.md)
+4. Class04: [Structure web pages with HTML](./code-102/class04.md)
+5. Class05: [Design web pages with CSS](./code-102/class05.md)
+6. Class06: [Dynamic web pages with JavaScript](./code-102/class06.md)
+7. Class07: [Programming with JavaScript](./code-102/class07.md)
+8. Class08: [Operators and Loops](./code-102/class08.md)
 
 *Code 201 Reading Notes*
-1. Class01: [TBD](https://tiffanirice23.github.io/code-201/class01)
-2. Class02: [TBD](https://tiffanirice23.github.io/code-201/class02)
-3. Class03: [TBD](https://tiffanirice23.github.io/code-201/class03)
-4. Class04: [TBD](https://tiffanirice23.github.io/code-201/class04)
-5. Class05: [TBD](https://tiffanirice23.github.io/code-201/class05)
-6. Class06: [TBD](https://tiffanirice23.github.io/code-201/class06)
-7. Class07: [TBD](https://tiffanirice23.github.io/code-201/class07)
-8. Class08: [TBD](https://tiffanirice23.github.io/code-201/class08)
-9. Class09: [TBD](https://tiffanirice23.github.io/code-201/class09)
-10. Class10: [TBD](https://tiffanirice23.github.io/code-201/class10)
-11. Class11: [TBD](https://tiffanirice23.github.io/code-201/class11)
-12. Class12: [TBD](https://tiffanirice23.github.io/code-201/class12)
-13. Class13: [TBD](https://tiffanirice23.github.io/code-201/class13)
-14. Class14: [TBD](https://tiffanirice23.github.io/code-201/class14)
-15. Class15: [TBD](https://tiffanirice23.github.io/code-201/class15)
+1. Class01: [TBD](./code-201/class01.md)
+2. Class02: [TBD](./code-201/class02.md)
+3. Class03: [TBD](./code-201/class03.md)
+4. Class04: [TBD](./code-201/class04.md)
+5. Class05: [TBD](./code-201/class05.md)
+6. Class06: [TBD](./code-201/class06.md)
+7. Class07: [TBD](./code-201/class07.md)
+8. Class08: [TBD](./code-201/class08.md)
+9. Class09: [TBD](./code-201/class09.md)
+10. Class10: [TBD](./code-201/class10.md)
+11. Class11: [TBD](./code-201/class11.md)
+12. Class12: [TBD](./code-201/class12.md)
+13. Class13: [TBD](./code-201/class13.md)
+14. Class14: [TBD](./code-201/class14.md)
+15. Class15: [TBD](./code-201/class15.md)
 
 
-**Click [here](https://tiffanirice23.github.io/reading-notes/growthmindset) to see ways to stay in a growth mindset!**
+**Click [here](./growthmindset.md) to see ways to stay in a growth mindset!**
 
 ### Contact Info
  
