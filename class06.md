@@ -2,11 +2,12 @@
 
 ### What are variables in JavaScript?
 
-> Containers  for storing data (storing data values).
+> Containers for storing information.
 
 ### What does it mean to declare a variable?
 
-> After the declaration, the variable has an undefined value. Declare values by using var, let, const or nothing
+> After the declaration, the variable has an undefined value. 
+> Declare values by using let, const, var, or nothing (*Note: Var and nothing are no longer used*)
 
 ### What is an “assignment” operator, and what does it do?
 
@@ -30,6 +31,3 @@
 *Watched*
 
 - [How Computers Work - Playlist](https://www.youtube.com/playlist?list=PLzdnOPI1iJNcsRwJhvksEo1tJqjIqWbN-)
-
-*Resources*
-- 

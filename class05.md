@@ -27,3 +27,6 @@
 *Resources*
 - [CSS Almanac](https://css-tricks.com/almanac/properties/)
 - [Color Selector](https://coolors.co/)
+- [Color Converter](https://www.w3schools.com/colors/colors_converter.asp) 
+- [Color Generator #1](https://coolors.co/)
+- [Color Generator #2](https://paletton.com/#uid=14Z0u0kllllaFw0g0qFqFg0w0aF)
