@@ -1,13 +1,14 @@
 <sub> *A  Code Fellows reading journal* </sub>
 
-#	My name is Tiffani, and I'm ready to start learning code! 
+#	Reading Notes! 
 
 I am a 27 year old professional from Pensacola, Florida currently living in the Seattle, Washington area. I had previously been managing commercial aviation warehouses for local OEM manufacturers and left once I noticed how many options there are for upward mobility within the tech industry. The Pacific Northwest offers a substantial selection of developer jobs, and I would be remiss to let the opportunity pass. <br>
 Please see below notes references for CodeFellows 102 and 201 coding courses.
 
-## Table Of Contents
+*Table Of Contents*
 
-*Code 102 Reading Notes*
+## Code 102 - Intro to Software Development
+
 1. Class01: [Learning Markdown](./code-102/class01)
 2. Class02: [The Coder's Computer](./code-102/class02.md)
 3. Class03: [Revisions and the Cloud](./code-102/class03.md)
@@ -17,7 +18,8 @@ Please see below notes references for CodeFellows 102 and 201 coding courses.
 7. Class07: [Programming with JavaScript](./code-102/class07.md)
 8. Class08: [Operators and Loops](./code-102/class08.md)
 
-*Code 201 Reading Notes*
+## Code 201 - Foundations of Software Development
+
 1. Class01: [TBD](./code-201/class01.md)
 2. Class02: [TBD](./code-201/class02.md)
 3. Class03: [TBD](./code-201/class03.md)
@@ -33,6 +35,11 @@ Please see below notes references for CodeFellows 102 and 201 coding courses.
 13. Class13: [TBD](./code-201/class13.md)
 14. Class14: [TBD](./code-201/class14.md)
 15. Class15: [TBD](./code-201/class15.md)
+
+## Code 301 - Intermediate Software Development
+
+
+## Code 401 - Advanced Software Development
 
 
 **Click [here](./growthmindset.md) to see ways to stay in a growth mindset!**
