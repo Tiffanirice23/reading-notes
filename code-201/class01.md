@@ -47,7 +47,7 @@ So I can get to -a - postin'
   progressive web apps." />`
 
 
-*Miscellaneous*
+**Miscellaneous**
 
 
 ### What is the first step to designing a Website?
@@ -56,7 +56,7 @@ So I can get to -a - postin'
 ### What is the most important question to answer when designing a Website?
 > Since it drives everything else, the most important question is `"What exactly do I want to accomplish?`. List all of the goals you want to reach!
 
-*Semantics*
+**Semantics**
 
 ### Why should you use an `<h1>` element over a `<span>` element to display a top level heading?
 > An `<h1>` element is a semantic one, and gives the text a "role" of a top level heading, whereas while a `<span>` element may look similiar too a header, it has no semantic value and would not be dynamic.
@@ -69,11 +69,15 @@ So I can get to -a - postin'
 4. Suggests to the developer the type of data that will be populated.
 5. Semantic naming mirrors custom element and component naming.
 
-*What is JavaScript?*
+**What is JavaScript?**
 
 ### Describe 2 things that require JavaScript in the Browser?
+> Browser APIs are built into your web broswer and expose data from the surrouding computer envionment (Examples: The DOM API, the Geolocation API, the Canvas/ WebGL API)
+
+>Third Party APIs are not built into the broswer, but you can generally copy their code and information from somewhere on the web (Example: The Twitter API, Google Maps API)
 
 ### How can you add JavaScript to an HTML document?
-
+> Javascript can be added to an HTML document simply by adding a `<script src=""></script>` tag within the head tag.
 
 ## Things I want to know more about:
+1. What exactly are the 2 things that require Javascraipt in the browser?
