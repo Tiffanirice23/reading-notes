@@ -3,16 +3,16 @@
 This topic is vital to our progress because understanding the terminology and jargon used in programming is essential to improving. Teachers will oftentimes use terms such as "variable" or "element", and it is important to fully be able to speak the language in order to integrate into our new career.
 
 1. Compose a short poem describing how HTTP sends data between computers.
-> Oh, my broswer sent a request hurrily
-To your HTTP server hostin'
-Won't you give us your response presently?
+> Oh, my broswer sent a request hurrily <br>
+To your HTTP server hostin' <br>
+Won't you give us your response presently? <br>
 So I can get to -a - postin'
 
 2. Describe how HTML, CSS, and JS files are “parsed” in the browser.
 > HTML files are parsed by the browser first, leading any `<link>` element references to external CSS stylesheets and any `<script>`-element references to scripts. The browser generates an in-memory DOM tree from the parsed HTML, generates an in-memory CSSOM structure from the parsed CSS, and compiles and executes the parsed JavaScript.
 
 3. How can you find images to add to a Website?
-> Most images on the web are copyrighted. You can use Google's license fliter by going to [Google Images],(https://www.google.com/imghp?hl=en&tab=ri&authuser=0&ogbl) clicking on the tools button, then on the resulting Usage rights option that appears below. You should choose the option Creative Commons licenses.
+> Most images on the web are copyrighted. You can use Google's license fliter by going to [Google Images](https://www.google.com/imghp?hl=en&tab=ri&authuser=0&ogbl) clicking on the tools button, then on the resulting Usage rights option that appears below. You should choose the option Creative Commons licenses.
 
 4. How do you create a String vs a Number in JavaScript?
 > A String is a sequence of text enclosed in a set of single of double quote marks (Example: 'Joe' or "five"), while a number is simply a number and does not require any sort of syntax. 
@@ -26,7 +26,7 @@ So I can get to -a - postin'
 ### Describe the Anatomy of an HTMl element.
 > an HTML element is comprised first of an opening tag `<`, the content, then a closing tag `>`.
 
-### What is the Difference between `<article>` and `<section>` element tags?
+### What is the Difference between <article> and <section> element tags?
 > An article tag encloses a single blog post, or a block of related content that can be understandable when on its own, while a section tag is ideal for grouping a set of article headlines or a part of the page that constitutes one piece of functionality.
 
 ### What Elements does a “typical” website include?
@@ -63,7 +63,7 @@ So I can get to -a - postin'
 
 ### What are the benefits of using semantic tags in our HTML?
 > Some benefits of using semantic language in HTML are: 
-1. search engines will consider your webpage as important and influence the page's search rankings.
+1. Search engines will consider your webpage as important and influence the page's search rankings.
 2. Screen readers use it to help visually impaired users with their navigation.
 3. Finding blocks of meaningful code is much easier than sifting through endless `<div>` elements.
 4. Suggests to the developer the type of data that will be populated.
@@ -80,4 +80,4 @@ So I can get to -a - postin'
 > Javascript can be added to an HTML document simply by adding a `<script src=""></script>` tag within the head tag.
 
 ## Things I want to know more about:
-1. What exactly are the 2 things that require Javascraipt in the browser?
+1. What exactly are the 2 things that require Javascript in the browser?
