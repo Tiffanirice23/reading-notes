@@ -20,21 +20,21 @@ Please see below notes references for CodeFellows 102 and 201 coding courses.
 
 ## Code 201 - Foundations of Software Development
 
-1. Class01: [TBD](./code-201/class01.md)
-2. Class02: [TBD](./code-201/class02.md)
-3. Class03: [TBD](./code-201/class03.md)
-4. Class04: [TBD](./code-201/class04.md)
-5. Class05: [TBD](./code-201/class05.md)
-6. Class06: [TBD](./code-201/class06.md)
-7. Class07: [TBD](./code-201/class07.md)
-8. Class08: [TBD](./code-201/class08.md)
-9. Class09: [TBD](./code-201/class09.md)
-10. Class10: [TBD](./code-201/class10.md)
-11. Class11: [TBD](./code-201/class11.md)
-12. Class12: [TBD](./code-201/class12.md)
-13. Class13: [TBD](./code-201/class13.md)
-14. Class14: [TBD](./code-201/class14.md)
-15. Class15: [TBD](./code-201/class15.md)
+1. Class01: [Introduction to Development](./code-201/class01.md)
+2. Class02: [Basics of HTML, CSS, JS](./code-201/class02.md)
+3. Class03: [Control Flow; Box Model](./code-201/class03.md)
+4. Class04: [Javascript Functions; Pair Programming](./code-201/class04.md)
+5. Class05: [Images, Color, Style; Branching](./code-201/class05.md)
+6. Class06: [Javascript Objects; The DOM](./code-201/class06.md)
+7. Class07: [OOP; HTML Tables](./code-201/class07.md)
+8. Class08: [CSS Layout: Flex](./code-201/class08.md)
+9. Class09: [HTML Forms & JavaScript Events](./code-201/class09.md)
+10. Class10: [JS Debugging; CSS Layouts](./code-201/class10.md)
+11. Class11: [A/V; Accessibility](./code-201/class11.md)
+12. Class12: [3rd Party Libraries and Documentation](./code-201/class12.md)
+13. Class13: [Application State with Local Storage API](./code-201/class13.md)
+14. Class14: [Psyhological Safety](./code-201/class14.md)
+15. Class15: [Project Kickoff](./code-201/class15.md)
 
 ## Code 301 - Intermediate Software Development
 
