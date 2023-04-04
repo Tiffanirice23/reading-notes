@@ -89,7 +89,7 @@ Because one change might require multuple edits within a single web page CSS wil
 
 > 4. Strict equality	(`===`) or loose equality (`==`)
 
->5. Not, Does-not-equal	 (`!, !==')
+>5. Not, Does-not-equal	 (`!, !==`)
 
 
 #### Describe a real world Problem you could solve with a Function.
