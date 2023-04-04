@@ -50,7 +50,7 @@ Some of the benefits from writing semantic markup are as follows:
 
 #### Why should we avoid using inline styles?
 
-Because one change might require multuple edits within a single web page, CSS mixes presentational code with HTML and content, making everything more difficult. to read and understand. Separating code and content makes maintenance easier for all who work on the website.
+Because one change might require multuple edits within a single web page CSS will mix presentational code with HTML and content, making everything more difficult to read and understand. Separating code and content makes maintenance easier for all who work on the website.
 
 ### *Review the block of code below and answer the following questions*:
 
@@ -73,38 +73,57 @@ Because one change might require multuple edits within a single web page, CSS mi
 
 #### What data type is a sequence of text enclosed in single quote marks?
 
+> A string is a sequence of text eclosed in single (or double) quote marks.
+
 #### List 4 types of JavaScript operators.
 
-> 1.
+*An operator is a mathematical symbol that produces a result based on two values (or variables). 
 
-> 2.
+> 1. Addition (`+`) - Add two numbers together or combine two strings.
+`Example: 3 + 7; 'Hey' + 'world!;`
 
-> 3.
+> 2. Subtraction, Multiplication, Division	(`-`, `*`, `/`) - These do what you'd expect them to do in basic math.	
 
-> 4.
+> 3. Assignment (`=`)
+`Example: let myVariable = 'Jane';`
+
+> 4. Strict equality	(`===`) or loose equality (`==`)
+
+>5. Not, Does-not-equal	 (`!, !==)
+
 
 #### Describe a real world Problem you could solve with a Function.
 
+> A function could be used to protect a customer's account with a secure password, or compute the total of an online store's cart whenever the customer selects the "checkout" button!
+
 #### An if statement checks a `__` and if it evaluates to `___`, then the code block will execute.
+
+> An if statement checks a `condition` and if it evaluates to `be true`, then the code block will execute.
 
 #### What is the use of an else if?
 
+> An else if statement in Javascript is used when you have more than two possible outcomes, with each outcome requiring different conditions to be checked.
+
 #### List 3 different types of comparison operators.
 
-> 1.
+> 1. `===` and `!==` — test if one value is identical to, or not identical to, another.
 
-> 2.
+> 2. `<` and `>` — test if one value is less than or greater than another.
 
-> 3.
+> 3. `<=` and `>=` — test if one value is less than or equal to, or greater than or equal to, another.
 
 
 #### What is the difference between the logical operator && and ||?
+
+- `&&` — AND; allows you to chain together two or more expressions so that all of them have to individually evaluate to true for the whole expression to return true.
+
+- `||` — OR; allows you to chain together two or more expressions so that one or more of them have to individually evaluate to true for the whole expression to return true.
 
 ##### Source
 - [JavaScript Basics- ("comments" - "events")](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)
 - [Making Decisions In Your Code – Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 
 ## Things I want to know more about 
-1.) p
+1.) 
 
 *[Bookmarked and Reviewed](https://chris.beams.io/posts/git-commit/)*
