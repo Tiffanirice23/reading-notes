@@ -17,10 +17,7 @@
 
 ### *Review the block of code below and answer the following questions*:
 
-` h2 {
-     color: black;
-     padding: 5px;
-     }`
+![example01-screenshot](example02.png)
    
 1. What is representing the selector?
 2. Which components are the CSS declarations?
@@ -33,8 +30,11 @@
 #### List 4 types of JavaScript operators.
 
 > 1.
+
 > 2.
+
 > 3.
+
 > 4.
 
 #### Describe a real world Problem you could solve with a Function.
@@ -46,8 +46,11 @@
 #### List 3 different types of comparison operators.
 
 > 1.
+
 > 2.
+
 > 3.
+
 
 #### What is the difference between the logical operator && and ||?
 
