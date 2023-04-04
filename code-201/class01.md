@@ -33,7 +33,7 @@ So I can get to -a - postin'
 > A majority of webpages should include a header `<header>`, navigation bar `<nav>`, main content `<main>` (with various content represented by article, section, and div elements), a sidebar `<aside>` (often nested inside a main element) and a footer `<footer>`.
 
 ### How does metadata influence Search Engine Optimization?
-> Metadata is used by search engines to forumlate the intention of the webpage and understand the content, and can be used yo help improve the visibility  and accessibility. 
+> Metadata is used by search engines to forumlate the intention of the webpage and understand the content, and can be used you help improve the visibility  and accessibility. 
 
 ### How is the `<meta>` HTML tag used when specifying metadata?
 > The `<meta>` element is used to specify metadata about a document that provides additional information that is not displayed on the page but could be used by broswers and search engines. Common uses for the <meta> element are listed below:
@@ -59,7 +59,7 @@ So I can get to -a - postin'
 **Semantics**
 
 ### Why should you use an `<h1>` element over a `<span>` element to display a top level heading?
-> An `<h1>` element is a semantic one, and gives the text a "role" of a top level heading, whereas while a `<span>` element may look similiar too a header, it has no semantic value and would not be dynamic.
+> An `<h1>` element is a semantic one, and gives the text a "role" of a top level heading, whereas while a `<span>` element may look similiar to a header, it has no semantic value and would not be dynamic.
 
 ### What are the benefits of using semantic tags in our HTML?
 > Some benefits of using semantic language in HTML are: 
@@ -72,9 +72,9 @@ So I can get to -a - postin'
 **What is JavaScript?**
 
 ### Describe 2 things that require JavaScript in the Browser?
-> Browser APIs are built into your web broswer and expose data from the surrouding computer envionment (Examples: The DOM API, the Geolocation API, the Canvas/ WebGL API)
+> Browser APIs are built into your web browser and expose data from the surrouding computer envionment (Examples: The DOM API, the Geolocation API, the Canvas/ WebGL API)
 
->Third Party APIs are not built into the broswer, but you can generally copy their code and information from somewhere on the web (Example: The Twitter API, Google Maps API)
+>Third Party APIs are not built into the browser, but you can generally copy their code and information from somewhere on the web (Example: The Twitter API, Google Maps API)
 
 ### How can you add JavaScript to an HTML document?
 > Javascript can be added to an HTML document simply by adding a `<script src=""></script>` tag within the head tag.
