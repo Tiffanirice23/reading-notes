@@ -89,7 +89,7 @@ Because one change might require multuple edits within a single web page CSS wil
 
 > 4. Strict equality	(`===`) or loose equality (`==`)
 
->5. Not, Does-not-equal	 (`!, !==)
+>5. Not, Does-not-equal	 (`!, !==')
 
 
 #### Describe a real world Problem you could solve with a Function.
@@ -124,6 +124,6 @@ Because one change might require multuple edits within a single web page CSS wil
 - [Making Decisions In Your Code – Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 
 ## Things I want to know more about 
-1.) 
+1.) Javascript is a very complex code, and i'm wondering how deep the pool goes. Beyond ele,if and for loops, what other options are there and how complicated does it get?
 
 *[Bookmarked and Reviewed](https://chris.beams.io/posts/git-commit/)*
