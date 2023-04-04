@@ -21,10 +21,10 @@ Some of the benefits from writing semantic markup are as follows:
 
 #### What are some uses for the `<sup>` and `<sub>` elements?
 
-- `sup`: The <sup>, or superscripts, are usually rendered with a *raised* baseline using smaller text.
+- sup : The `<sup>`, or superscripts, are usually rendered with a *raised* baseline using smaller text.
 > Example: Displaying exponents (x <sup>4</sup>), or representing ordinal numbers (4<sup>th</sup>)
 
-- `sub`: the <sub>, or subscripts, are typically rendered with a *lowered* baseline using smaller text.
+- sub: the `<sub>`, or subscripts, are typically rendered with a *lowered* baseline using smaller text.
 > Example: marking up footnote numbers or denoting the number of atoms of a given element within a chemical formula (H <sub>2</sub>0).
 
 #### When using the <abbr> element, what attribute must be added to provide the full expansion of the term?
@@ -46,7 +46,7 @@ Some of the benefits from writing semantic markup are as follows:
 > CSS can be applied to an HTML document through 3 methods:
 1. an external stylesheet (`<link rel="stylesheet" href="styles.css" />`)
 2. with an internal stylesheet (`<style> h1 {color:blue;}</style>`)
-3. or with inline syles. <p style="color:blue;">#1 CSS example</p>
+3. or with inline syles. (`<p style="color:blue;">#1 CSS example</p>`)
 
 #### Why should we avoid using inline styles?
 
@@ -57,7 +57,7 @@ Because one change might require multuple edits within a single web page CSS wil
 ![example01-screenshot](example02.png)
    
 1. What is representing the selector?
-> The selector, `h2`, will target all of the `<h2> elements on the page.
+> The selector, `h2`, will target all of the `<h2>` elements on the page.
 
 2. Which components are the CSS declarations?
 > `color: black` and `padding: 5px;` are the CSS declarations.
