@@ -97,7 +97,7 @@ If you try to access an element that doesn't exist in the array, you will get a 
 
 #### Give an example of when a Loop is useful in JavaScript.
 
->Loops can be used in various scenarios, including iterating over objects or repeating an action a specific number of times. An example would be if we wanted to draw 100 random circles on an element in a webpage.
+> Loops can be used in various scenarios, including iterating over objects or repeating an action a specific number of times. An example would be if we wanted to draw 100 random circles on an element in a webpage.
 
 ##### Sources
 
@@ -106,3 +106,6 @@ If you try to access an element that doesn't exist in the array, you will get a 
 - [Operators and expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
 - [Conditionals](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/conditionals)
 - [Loops](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Looping_code)
+
+## Things I want to know more about
+ - I would like to learn more about looping in JavaScript.
