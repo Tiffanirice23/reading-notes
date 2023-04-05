@@ -38,7 +38,8 @@ you want to display a list of items that are not ranked or ordered, such as a li
 ### Learn CSS
 
 #### Describe the CSS properties of margin and padding as characters in a story. What is their role in a story titled: “The Box Model”?
-In a story titled "The Box Model", margin and padding are in a relationship... but padding is incarcerated and behind a border (behind bars).
+
+> In a story titled "The Box Model", margin and padding are in a relationship... but padding is incarcerated and behind a border (behind bars).
 
 - Padding box: The padding sits around the content as white space. It can be re-sized using padding and related properties.
 
