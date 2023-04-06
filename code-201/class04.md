@@ -57,7 +57,6 @@
 
 - An argument is a value that is passed into the function when it is called.
 
-- 
  > A parameter is a variable declared in the function or method definition, while an argument is a value passed into the function or method when it is called.
 
 *Source*
@@ -65,6 +64,7 @@
 - [Functions - Reusable Blocks of Code](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Building_blocks/Functions)
 
 ### Miscellaneous
+
 #### Pick 2 benefits to pair programming and reflect on how these benefits could help you on your coding journey.
 
 > Two benefits to pair programming that stand out to me are job interview readiness and work environment readiness! As much as I enjoy coding in solitary, it is not likely what my future work environment would be. My technical skills in coding may be rapidly improving, but my ability to communicate or understand programming jargon needs improvement to prepare me for a new career.
