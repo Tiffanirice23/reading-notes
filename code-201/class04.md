@@ -71,3 +71,7 @@
 
 *Sources*
 - [6 Reasons for Pair Programming](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
+
+## Things I want to know more about
+
+1. I would like more terms and definition comparison! Knowing more jargon beforehand would have lessened my confusion whenever getting help from teachers or TAs.
