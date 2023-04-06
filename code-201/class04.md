@@ -50,15 +50,11 @@
 
 - A function invocation is when the function is actually called or executed. 
 
-> the main difference between a function declaration and a function invocation is that a declaration is a way to define a function, while an invocation is when the function is actually called or executed. 
-
 #### What is the difference between a parameter and an argument?
 
 - A parameter is a variable that is declared in the function or method definition. It represents a value that is expected to be passed into the function when it is called.
 
 - An argument is a value that is passed into the function when it is called.
-
- > A parameter is a variable declared in the function or method definition, while an argument is a value passed into the function or method when it is called.
 
 *Source*
 
