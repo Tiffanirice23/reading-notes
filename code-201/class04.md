@@ -21,13 +21,14 @@
 > "Normal flow" refers to the default layout behavior of HTML elements on a web page without any positioning or floating applied to them. When an HTML element is rendered, it is placed in its natural position on the web page, based on the order of the HTML source code and the default positioning of the element itself.
 
 #### What are a few differences between `block-level` and `inline elements`?
-> 1. *Line breaks*: Block-level elements create a line break before and after them, so they start on a new line and take up the full width available to them. Inline elements do not create line breaks, and they flow alongside other inline elements within their containing block.
 
-> 2. *Box model properties*: Block-level elements can have all of the box model properties applied to them, including margin, padding, and border. Inline elements can only have left and right margin and padding applied to them, and their border is limited to a small line around the text.
+ 1. *Line breaks*: Block-level elements create a line break before and after them, so they start on a new line and take up the full width available to them. Inline elements do not create line breaks, and they flow alongside other inline elements within their containing block.
 
-> 3. *Nesting*: Block-level elements can contain both block-level and inline elements, while inline elements can only contain other inline elements or text.
+ 2. *Box model properties*: Block-level elements can have all of the box model properties applied to them, including margin, padding, and border. Inline elements can only have left and right margin and padding applied to them, and their border is limited to a small line around the text.
 
-> 4. *Content type*: Block-level elements are typically used for structural elements, such as headings, paragraphs, and lists, while inline elements are typically used for text-level elements, such as links, emphasized text, and spans of text
+ 3. *Nesting*: Block-level elements can contain both block-level and inline elements, while inline elements can only contain other inline elements or text.
+
+ 4. *Content type*: Block-level elements are typically used for structural elements, such as headings, paragraphs, and lists, while inline elements are typically used for text-level elements, such as links, emphasized text, and spans of text
 
 #### ___ positioning is the default for every html element.
 > Static positioning is the default that every element gets. It just means "put the element into its normal position in the document flow — nothing special to see here."
