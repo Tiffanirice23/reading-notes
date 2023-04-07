@@ -5,20 +5,7 @@
 > The `alt` attribute is an important attribute used in HTML for providing accessibility, improving user experience, complying with legal requirements, and optimizing search engine ranking.
 
 #### How can you improve accessibility of images in an HTML document?
-> Accessibility of images can be improved  by use of the `alt` attribute,  providing an accurate description, avoiding the use of decorative images, and using caoptions and labels.
-
-#### Provide an example of when the `figure` element would be useful in an HTML document.
-<article>
-  <h2>My Favorite City</h2>
-  <p>Paris is my favorite city in the world. It's a beautiful and romantic place, filled with history and culture.</p>
-  <figure>
-    <img src="paris.jpg" alt="Eiffel Tower in Paris">
-    <figcaption>The Eiffel Tower in Paris</figcaption>
-  </figure>
-  <p>One of the most iconic landmarks in Paris is the Eiffel Tower. It was built in 1889 for the World's Fair and has become a symbol of the city.</p>
-</article>
-
-In this example, the figure element is used to group an image of the Eiffel Tower with its caption. The figcaption element is used to provide a description of the image. This helps to provide context to the image and makes the content more accessible to people who use screen readers or other assistive technologies.
+> Accessibility of images can be improved  by use of the `alt` attribute,  providing an accurate description, avoiding the use of decorative images, and using captions and labels.
 
 #### Describe the difference between a `gif` image and an `svg` image, pretend you are explaining to an elder in your community.
 > a gif image is a type of animated image that is made up of a series of still images, while an svg image is a vector graphic that can be scaled to any size without losing quality. 
