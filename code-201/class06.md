@@ -38,10 +38,11 @@ The Document Object Model (DOM) is a programming interface for web documents. It
 #### Briefly describe the relationship between the DOM and JavaScript.
 > JavaScript is a programming language that can interact with the DOM to manipulate the structure and content of a web page dynamically. JavaScript can be used to select and modify individual nodes in the DOM, add or remove nodes from the tree, change the content of nodes, and respond to user actions such as clicks and keystrokes. The DOM provides a standard interface that JavaScript can use to access and modify the structure and content of a web page, and JavaScript provides the programming logic to perform those actions.
 
-
 *Sources*
 - [Introduction to the Dom](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction_)
 
 - [Understanding the problem domain is the hardest part of programming](http://simpleprogrammer.com/2013/07/15/understanding-the-problem-domain-is-the-hardest-part-of-programming)
 
 - [What’s the difference between primitive values and object references in JavaScript?](https://betterprogramming.pub/intermediate-javascript-whats-the-difference-between-primitive-values-and-object-references-e863d70677b)
+
+## Things I want to know more about
