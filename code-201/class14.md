@@ -1,6 +1,6 @@
 ## Read: Class 14
 
-### ![CSS Transforms](http://learn.shayhowe.com/advanced-html-css/css-transforms/)
+### [CSS Transforms](http://learn.shayhowe.com/advanced-html-css/css-transforms/)
 
 #### What does a CSS transform allow the developer to do to an element?
 
