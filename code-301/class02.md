@@ -51,7 +51,7 @@ This method is often used to perform side effects such as fetching data from an 
 
 2. Application configuration settings that can be changed by the user, such as theme, language, or font size.
 
-3. 
+3. Data retrieved from APIs or other external sources that needs to be updated periodically or in response to user actions.
 
 *Sources*
 - [React Docs - State and Lifecycle](https://reactjs.org/docs/state-and-lifecycle.html)
