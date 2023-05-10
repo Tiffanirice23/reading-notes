@@ -38,9 +38,9 @@ Please see below notes references for CodeFellows 102 and 201 coding courses.
 
 ## Code 301 - Intermediate Software Development
 
-1. Class01: [TBD](./code-301/class01.md)
-2. Class02: [TBD](./code-301/class02.md)
-3. Class03: [TBD](./code-301/class03.md)
+1. Class01: [Component-Based Architecture](./code-301/class01.md)
+2. Class02: [State and Props](./code-301/class02.md)
+3. Class03: [Passing Functions as Props](./code-301/class03.md)
 4. Class04: [TBD](./code-301/class04.md)
 5. Class05: [TBD](./code-301/class05.md)
 6. Class06: [TBD](./code-301/class06.md)
