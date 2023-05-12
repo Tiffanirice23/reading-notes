@@ -28,11 +28,9 @@
 
 > a higher-order function is a function that takes another function as an argument, or returns a function as its result. It is a function that operates on other functions, either by taking them as arguments or by returning them as values.
 
-#### Explore the `greaterThan` function as defined in the reading. In your own words, what is line 2 of this function doing?
-
 #### Explain how either `map` or `reduce` operates, with regards to higher-order functions
 
-> map is a higher-order function that takes a function as an argument and applies it to each element of an array, returning a new array of transformed values.
+> Map is a higher-order function that takes a function as an argument and applies it to each element of an array, returning a new array of transformed values.
 
 > Reduce is a higher-order function that takes a function as an argument and applies it to each element of an array, reducing the array to a single value.
 
