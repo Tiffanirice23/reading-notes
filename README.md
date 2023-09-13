@@ -2,8 +2,9 @@
 
 #	Reading Notes! 
 
-Hello I am Tiffani Rice, a resident of the greater Seattle area, with 7 years of experience in the aviation industry specializing in project coordination and customer support. In February 2023, I decided to switch gears and pursue a formal education in software development because I wanted a career that would give me continuous challenges on a day to day basis, and stand the test of time! <br>
-Please see below notes references for CodeFellows 102 and 201 coding courses.
+Hello I am Tiffani Rice, a resident of the greater Seattle area, with 7 years of experience in the aviation industry specializing in project coordination and customer support. <br>
+**Click [here](./growthmindset.md) to see ways to stay in a growth mindset!**
+
 
 *Table Of Contents*
 
@@ -57,8 +58,8 @@ Please see below notes references for CodeFellows 102 and 201 coding courses.
 
 ## Code 401 - Advanced Software Development
 
+1. Class01: [TBD](./code-401/class01.md)
 
-**Click [here](./growthmindset.md) to see ways to stay in a growth mindset!**
 
 ### Contact Info
  
@@ -66,8 +67,6 @@ Please see below notes references for CodeFellows 102 and 201 coding courses.
  
  **My _[LinkedIn](https://www.linkedin.com/in/tiffani-rice-600658168/)_**
  
- **My _[Github portfolio](https://github.com/tiffanirice23)_** 
-
- 
+ **My _[Official portfolio](https://tiffanirice-porfolio.netlify.app)_** 
 
 <sub> reading-notes </sub>
