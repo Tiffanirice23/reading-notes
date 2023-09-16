@@ -3,9 +3,15 @@
 <sub> *A  Code Fellows reading journal used for the purpose of studying advanced software developement in full stack Javascript.* </sub>
 
 Hello I am Tiffani Rice, a resident of the greater Seattle area, with 7 years of experience in the aviation industry specializing in project coordination and customer support. <br>
-**For TAs, Click [here](./growthmindset.md)to view "Growth Mindset", [here](./prepyourmindset.md) to view "Prep your Mindset", or [here](./engineeringreadings.md) to view "Engineering Readings**
+**For TAs, Click:** 
 
+-[here](./growthmindset.md)to view "Growth Mindset"
+-[here](./prepyourmindset.md) to view "Prep your Mindset"
+-[here](./engineeringreadings.md) to view "Engineering Readings
+-[here](./Sqlintroduction.md)to view "Introduction to SQL"
+-[here](./practiceintheterminal.md) to view "Practice in the Terminal"
 
+Introduction to SQL
 *Table Of Contents*
 
 ## Code 102 - Intro to Software Development
