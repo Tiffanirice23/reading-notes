@@ -10,6 +10,7 @@ Hello I am Tiffani Rice, a resident of the greater Seattle area, with 7 years of
 - [here](./engineeringreadings.md) to view "Engineering Readings
 - [here](./Sqlintroduction.md) to view "Introduction to SQL"
 - [here](./practiceintheterminal.md) to view "Practice in the Terminal"
+- [here](./datastructuresandalgorithms.md) to view "Data Structures And Algorithms
 
 *Table Of Contents*
 
