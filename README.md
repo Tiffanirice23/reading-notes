@@ -5,13 +5,12 @@
 Hello I am Tiffani Rice, a resident of the greater Seattle area, with 7 years of experience in the aviation industry specializing in project coordination and customer support. <br>
 **For TAs, Click:** 
 
--[here](./growthmindset.md)to view "Growth Mindset"
--[here](./prepyourmindset.md) to view "Prep your Mindset"
--[here](./engineeringreadings.md) to view "Engineering Readings
--[here](./Sqlintroduction.md)to view "Introduction to SQL"
--[here](./practiceintheterminal.md) to view "Practice in the Terminal"
+- [here](./growthmindset.md) to view "Growth Mindset"
+- [here](./prepyourmindset.md) to view "Prep your Mindset"
+- [here](./engineeringreadings.md) to view "Engineering Readings
+- [here](./Sqlintroduction.md) to view "Introduction to SQL"
+- [here](./practiceintheterminal.md) to view "Practice in the Terminal"
 
-Introduction to SQL
 *Table Of Contents*
 
 ## Code 102 - Intro to Software Development
