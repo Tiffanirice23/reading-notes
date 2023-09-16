@@ -7,4 +7,4 @@
 
 ### Instruction: When you are finished with all of the lessons, create a new entry in your reading notes repository summarizing your observations and learnings
 
-> Before reading this, I was just continually just trying combos of `../../` in my link until the image finally started working. Now I understand that its related to the file path of your current directories parent directory
+> Before reading this, I was just continually trying different combos of `../../` in my link until the image finally started working. Now I understand that its related to the file path of your current directories parent directory
