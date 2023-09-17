@@ -5,12 +5,12 @@
 Hello I am Tiffani Rice, a resident of the greater Seattle area, with 7 years of experience in the aviation industry specializing in project coordination and customer support. <br>
 **For TAs, Click:** 
 
-- [here](./growthmindset.md) to view "Growth Mindset"
-- [here](./prepyourmindset.md) to view "Prep your Mindset"
-- [here](./engineeringreadings.md) to view "Engineering Readings
-- [here](./Sqlintroduction.md) to view "Introduction to SQL"
-- [here](./practiceintheterminal.md) to view "Practice in the Terminal"
-- [here](./datastructuresandalgorithms.md) to view "Data Structures And Algorithms
+- [Here](./growthmindset.md) to view "Growth Mindset"
+- [Here](./prepyourmindset.md) to view "Prep your Mindset"
+- [Here](./engineeringreadings.md) to view "Engineering Readings
+- [Here](./Sqlintroduction.md) to view "Introduction to SQL"
+- [Here](./practiceintheterminal.md) to view "Practice in the Terminal"
+- [Here](./datastructuresandalgorithms.md) to view "Data Structures And Algorithms
 
 *Table Of Contents*
 
@@ -64,7 +64,7 @@ Hello I am Tiffani Rice, a resident of the greater Seattle area, with 7 years of
 
 ## Code 401 - Advanced Software Development
 
-1. Class01: [TBD](./code-401/class01.md)
+1. Class01: [Node Ecosystem](./code-401/class01.md)
 
 
 ### Contact Info
