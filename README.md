@@ -61,11 +61,17 @@ Hello I am Tiffani Rice, a resident of the greater Seattle area, with 7 years of
 14. Class14: [Diversity & Inclusion in the Tech Industry](./code-301/class14.md)
 15. Class15: [Authentication](./code-301/class15.md)
 
-
 ## Code 401 - Advanced Software Development
 
 1. Class01: [Node Ecosystem](./code-401/class01.md)
-
+2. Class02: [Express, NPM, TDD, CI/CD](./code-401/class02.md)
+3. Class03: [TBD](./code-401/class03.md)
+4. Class04: [TBD](./code-401/class04.md)
+5. Class05: [TBD](./code-401/class05.md)
+6. Class06: [TBD](./code-401/class06.md)
+7. Class07: [TBD](./code-401/class07.md)
+8. Class08: [TBD](./code-401/class08.md)
+9. Class09: [TBD](./code-401/class09.md)
 
 ### Contact Info
  
