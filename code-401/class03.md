@@ -1,6 +1,6 @@
-# [Review: ES6 Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
+# Express REST API
 
-## Readings
+## [Review: ES6 Classes](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes)
 
 ### Classes are a template for creating ____.
 
