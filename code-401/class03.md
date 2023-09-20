@@ -58,3 +58,5 @@ router.get('/about', (req, res) => {
 ## Reflection
 
 ### What are your learning goals after reading and reviewing the [class README](https://codefellows.github.io/code-401-javascript-guide/curriculum/class-03/)?
+
+> One of my goals is to get better at CRUD, as it's something that I struggled with during my final 301 project. In general, I need to learn more about backend developement alltogether.

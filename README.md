@@ -1,5 +1,3 @@
-#	Reading Notes! 
-
 <sub> *A  Code Fellows reading journal used for the purpose of studying advanced software developement in full stack Javascript.* </sub>
 
 Hello I am Tiffani Rice, a resident of the greater Seattle area, with 7 years of experience in the aviation industry specializing in project coordination and customer support. <br>
