@@ -64,7 +64,7 @@ Hello I am Tiffani Rice, a resident of the greater Seattle area, with 7 years of
 1. Class01: [Node Ecosystem](./code-401/class01.md)
 2. Class02: [Express, NPM, TDD, CI/CD](./code-401/class02.md)
 3. Class03: [Express REST API](./code-401/class03.md)
-4. Class04: [TBD](./code-401/class04.md)
+4. Class04: [Data Modeling](./code-401/class04.md)
 5. Class05: [TBD](./code-401/class05.md)
 6. Class06: [TBD](./code-401/class06.md)
 7. Class07: [TBD](./code-401/class07.md)
