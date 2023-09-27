@@ -68,7 +68,7 @@ Hello I am Tiffani Rice, a resident of the greater Seattle area, with 7 years of
 5. Class05: [LinkedLists](./code-401/class05.md)
 6. Class06: [Authentication](./code-401/class06.md)
 7. Class07: [Bearer Authorization](./code-401/class07.md)
-8. Class08: [TBD](./code-401/class08.md)
+8. Class08: [Access Control (ACL)](./code-401/class08.md)
 9. Class09: [TBD](./code-401/class09.md)
 
 ### Contact Info
